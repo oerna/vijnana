@@ -21,3 +21,9 @@ theme = "hyde"
         weight = -90
         identifier = "Vita"
         url = "/post/vita"
+        
+[[menu.main]]
+        name = "Kurse"
+        weight = -70
+        identifier = "Kurse"
+        url = "/post/kurse"
