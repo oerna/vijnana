@@ -1,0 +1,23 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Gabriele Petri"
+theme = "hyde"
+
+
+
+
+[params]
+  themeColor = "theme-base-0b"
+
+
+[[menu.main]]
+        name = "Vijnana Yoga"
+        weight = -110
+        identifier = "Vijnana"
+        url = "/post/vijnana"
+        
+[[menu.main]]
+        name = "Vita"
+        weight = -90
+        identifier = "Vita"
+        url = "/post/vita"

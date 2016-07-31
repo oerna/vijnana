@@ -1,0 +1,25 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+        
+     <a href="/"><img src="/img/LOGO.png" title="Vijnana"/></a>
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+      
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+        <a href="/">Startseite</a>
+      {{ range .Site.Menus.main }}
+        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>     
+      <a class="btn">Termine / Programm</a><p class="klein">PDF-Datei zum download.</p>
+      <br/>
+        <a>+49(0)8031 267865</a>
+       <a>vijnana@gabrielepetri-yoga.de</a>
+      <br/><br/>
+    <p class="copyR">{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. Gabriele Petri - Alle Rechte vorbehalten. <a href="/post/impressum">Impressum</a> {{end}}</p>
+  </div>
+</div>
