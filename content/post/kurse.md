@@ -39,9 +39,9 @@ Mittwoch
 
 Die Erfahrung zeigt, dass kontinuierliches Üben sinnvoll ist, deshalb ist die Buchung eines gesamten Kurszyklus sehr zu empfehlen.
 
-Eine nicht wahrgenommene Übungseinheit kann im laufenden Kurszyklus nachgeholt werden. In Ausnahmefällen können Sonderbedingungen abgesprochen werden.
+Eine nicht wahrgenommene Übungseinheit kann im laufenden Kurszyklus nachgeholt werden. In Ausnahmefällen können Sonderbedingungen abgesprochen werden.   
 
- <a href="/16HerbstKursausschreibung.pdf" class="btn">Anmeldeformular</a><p class="klein">PDF-Datei zum download.</p>
+ <a href="/16HerbstKursausschreibung.pdf" target="_blank" class="btn">Anmeldeformular</a><p class="klein">PDF-Datei zum download.</p>
       <br/>
       
 # Einzelstunden

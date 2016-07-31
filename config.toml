@@ -3,7 +3,8 @@ languageCode = "de-de"
 title = "Gabriele Petri"
 theme = "hyde"
 
-
+[permalinks]
+    post = "/:filename/"
 
 
 [params]
@@ -14,16 +15,16 @@ theme = "hyde"
         name = "Vijnana Yoga"
         weight = -110
         identifier = "Vijnana"
-        url = "/post/vijnana"
+        url = "/vijnana"
         
 [[menu.main]]
         name = "Vita"
         weight = -90
         identifier = "Vita"
-        url = "/post/vita"
+        url = "/vita"
         
 [[menu.main]]
         name = "Kurse"
         weight = -70
         identifier = "Kurse"
-        url = "/post/kurse"
+        url = "/kurse"
