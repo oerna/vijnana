@@ -1,5 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
+baseurl = "http://gabrielepetri-yoga.de/"
+languageCode = "de-de"
 title = "Gabriele Petri"
 theme = "hyde"
 

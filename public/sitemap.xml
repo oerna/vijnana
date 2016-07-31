@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-07-31T11:26:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/impressum/</loc>
+    <lastmod>2016-07-31T11:26:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/vita/</loc>
+    <lastmod>2016-07-31T11:14:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/vijnana/</loc>
+    <lastmod>2016-07-31T10:07:07+02:00</lastmod>
+  </url>
+  
+</urlset>
