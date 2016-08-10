@@ -22,8 +22,8 @@ Finsterwalderstr. 8
 ## Aktuelle Termine
 
 Montag   
-18:30 Uhr - 20:00 Uhr  
-20:15 Uhr - 21:45 Uhr
+18:00 Uhr - 19:30 Uhr  
+19:45 Uhr - 21:15 Uhr
 
 Mittwoch  
 19:00 Uhr – 20:30 Uhr

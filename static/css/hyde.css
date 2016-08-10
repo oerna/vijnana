@@ -206,11 +206,11 @@ a.sidebar-nav-item:focus {
 
 /* DAS IST DAS THEME WELCHES AKTIVIERT IST */
 .theme-base-0b .sidebar {
-  background-color: #B1762F;
+  background-color: #DB8300;
 }
 .theme-base-0b .content a,
 .theme-base-0b .related-posts li a:hover {
-  color: #B1762F;
+  color: #DB8300;
 }
 
 /* Cyan */
@@ -250,7 +250,7 @@ a.sidebar-nav-item:focus {
 }
 
 
-/* ---------   OERNA     ----------*/
+/* ---------   oErNa     ----------*/
 
 .copyR {
   font-size: 10px !important;
@@ -265,7 +265,7 @@ a.sidebar-nav-item:focus {
   border-radius: 7px;
   color: #FFF !important;
   font-size: 16px;
-  background: #C1863F;
+  background: #DB8300;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
