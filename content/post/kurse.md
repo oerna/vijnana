@@ -4,29 +4,19 @@ image = ["x"]
 title = "Kurse"
 
 +++
+(zertifiziert durch die zentrale Prüfstelle Prävention)
 
 ## Orte
 
 HeilpädagogischeTagesstätte (HPT)  
 Ebersberger Str. 32 a  
 Rosenheim   
-(Montag)
-
-
-SimsLab  
-Finsterwalderstr. 8  
-83071 Stephanskirchen   
-(Mittwoch)
-  
+(Montag und Donnerstag)
    
 ## Aktuelle Termine
 
-Montag   
-18:00 Uhr - 19:30 Uhr  
-19:45 Uhr - 21:15 Uhr
-
-Mittwoch  
-19:00 Uhr – 20:30 Uhr
+Montag   19.30 - 21.00 Uhr
+Donnerstag   18.30 - 20.00 Uhr
 
    
 - Notwendige Hilfsmittel (Matten, Decken, Rollen etc) sind vorhanden.
@@ -41,7 +31,7 @@ Die Erfahrung zeigt, dass kontinuierliches Üben sinnvoll ist, deshalb ist die B
 
 Eine nicht wahrgenommene Übungseinheit kann im laufenden Kurszyklus nachgeholt werden. In Ausnahmefällen können Sonderbedingungen abgesprochen werden.   
 
- <a href="/anmeldeformular.pdf" target="_blank" class="btn">Kursanmeldung 2017-1</a><p class="klein">PDF-Datei zum download.</p>
+ <a href="/anmeldeformular.pdf" target="_blank" class="btn">Kursanmeldung 2017-2</a><p class="klein">PDF-Datei zum download.</p>
       <br/>
       
 # Einzelstunden
