@@ -15,8 +15,8 @@ Rosenheim
    
 ## Aktuelle Termine
 
-Montag   19.30 - 21.00 Uhr
-Donnerstag   18.30 - 20.00 Uhr
+Montag   19.30 - 21.00 Uhr (8 x ab 11.09.17) 
+Donnerstag   18.30 - 20.00 Uhr (8 x ab 14.09.17)
 
    
 - Notwendige Hilfsmittel (Matten, Decken, Rollen etc) sind vorhanden.
