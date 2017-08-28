@@ -31,7 +31,7 @@ Die Erfahrung zeigt, dass kontinuierliches Üben sinnvoll ist, deshalb ist die B
 
 Eine nicht wahrgenommene Übungseinheit kann im laufenden Kurszyklus nachgeholt werden. In Ausnahmefällen können Sonderbedingungen abgesprochen werden.   
 
- <a href="/anmeldeformular.pdf" target="_blank" class="btn">Kursanmeldung 2017-2</a><p class="klein">PDF-Datei zum download.</p>
+ <a href="/anmeldeformular.pdf" target="_blank" class="btn">Kursanmeldung 2017-3</a><p class="klein">PDF-Datei zum download.</p>
       <br/>
       
 # Einzelstunden
